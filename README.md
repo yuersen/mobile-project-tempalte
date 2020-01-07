@@ -1,4 +1,4 @@
-# gclp-app
+# mobile-project-template
 
 ## Project setup
 
